@@ -1,10 +1,25 @@
 <div align="center">
 
-# SONA MITHYA
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sona+Mithya+%F0%9F%91%8B;Java+%7C+Full+Stack+%7C+AI+Developer;Building+Ideas+Into+Working+Solutions;Learning.+Building.+Improving." alt="Typing SVG" />
 
-### Java • Full Stack • AI • Problem Solving
+<br/>
+
+### `JAVA` • `FULL STACK` • `AI` • `DSA`
+
+<br/>
+
+<a href="https://github.com/Sonamithya05-JS">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 </div>
+
+---
+
 
 ---
 
