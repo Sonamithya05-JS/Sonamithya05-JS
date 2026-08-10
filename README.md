@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=120&pause=999999&color=00C2FF&center=true&vCenter=true&width=700&lines=SONA+MITHYA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=120&pause=500&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=160&lines=SONA+MITHYA;Computer+Science+Engineer;Java+Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast" />
 
-<br>
+<br><br>
 
-<h3>Computer Science Engineer • Java Full Stack Developer</h3>
-
-<p>
-Building intelligent applications with Java, AI & Full Stack technologies.
-</p>
+### `JAVA` • `FULL STACK` • `AI` • `DSA`
 
 <br>
 
@@ -21,6 +17,8 @@ Building intelligent applications with Java, AI & Full Stack technologies.
 </a>
 
 </div>
+
+---
 
 ---
 
