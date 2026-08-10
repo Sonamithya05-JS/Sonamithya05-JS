@@ -1,12 +1,12 @@
 <div align="center">
 
-# **SONA MITHYA**
+<h1>✨ SONA MITHYA ✨</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Building+Ideas+Into+Working+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer" alt="Typing Animation" />
 
-<br>
+<br><br>
 
-### Java • Full Stack • AI • DSA
+### `JAVA` • `FULL STACK` • `AI` • `DSA`
 
 <br>
 
@@ -14,16 +14,13 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR-LINKEDIN-LINK">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
 
 ---
-
----
-
 
 ---
 
