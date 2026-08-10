@@ -1,18 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=100&pause=100000&color=123B70&center=true&vCenter=true&width=700&height=60&lines=SONA+MITHYA&repeat=false" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sona+Mithya+%F0%9F%91%8B;Java+%7C+Full+Stack+%7C+AI+Developer;Building+Ideas+Into+Working+Solutions;Learning.+Building.+Improving." alt="Typing SVG" />
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=700&color=3B6EA5&center=true&vCenter=true&width=750&height=120&multiline=true&lines=Computer+Science+Engineer;Java+Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast&repeat=false" />
-
-<br><br>
+<br/>
 
 ### `JAVA` • `FULL STACK` • `AI` • `DSA`
+
+<br/>
+
+<a href="https://github.com/Sonamithya05-JS">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 </div>
 
 ---
+
 
 ## 👋 About Me
 
