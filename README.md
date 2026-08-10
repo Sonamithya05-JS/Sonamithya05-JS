@@ -1,22 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sona+Mithya+%F0%9F%91%8B;Java+%7C+Full+Stack+%7C+AI+Developer;Building+Ideas+Into+Working+Solutions;Learning.+Building.+Improving." alt="Typing SVG" />
+# **SONA MITHYA**
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Building+Ideas+Into+Working+Solutions" alt="Typing SVG" />
 
-### `JAVA` • `FULL STACK` • `AI` • `DSA`
+<br>
 
-<br/>
+### Java • Full Stack • AI • DSA
+
+<br>
 
 <a href="https://github.com/Sonamithya05-JS">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="YOUR-LINKEDIN-LINK">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
+
+---
 
 ---
 
