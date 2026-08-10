@@ -1,24 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=120&pause=500&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=160&lines=SONA+MITHYA;Computer+Science+Engineer;Java+Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=100&pause=100000&color=123B70&center=true&vCenter=true&width=700&height=60&lines=SONA+MITHYA&repeat=false" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=700&color=3B6EA5&center=true&vCenter=true&width=750&height=120&multiline=true&lines=Computer+Science+Engineer;Java+Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast&repeat=false" />
 
 <br><br>
 
 ### `JAVA` • `FULL STACK` • `AI` • `DSA`
 
-<br>
-
-<a href="https://github.com/Sonamithya05-JS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR-LINKEDIN-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </div>
-
----
 
 ---
 
