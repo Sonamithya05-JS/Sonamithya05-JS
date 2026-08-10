@@ -1,8 +1,10 @@
 <div align="center">
 
-<h1>✨ SONA MITHYA ✨</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=250&pause=100000&color=00C2FF&center=true&vCenter=true&width=700&lines=SONA+MITHYA" alt="SONA MITHYA" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer" alt="Typing Animation" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=50&pause=100000&color=888888&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer" alt="Java Full Stack Developer" />
 
 <br><br>
 
@@ -19,6 +21,8 @@
 </a>
 
 </div>
+
+---
 
 ---
 
