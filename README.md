@@ -19,14 +19,11 @@
 <img src="https://komarev.com/ghpvc/?username=Sonamithya05-JS&label=GITHUB%20VIEWS&style=for-the-badge&color=06B6D4" />
 </a>
 
-</div>
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Sonamithya05-JS&show_icons=true&hide_border=true&title_color=7DD3FC&text_color=FFFFFF&icon_color=38BDF8&bg_color=0D1117" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonamithya05-JS&hide_border=true&background=0D1117&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=FFFFFF&dates=FFFFFF" height="180"/>
-
 </div>
+
 ---
 
 ## 👋 About Me
