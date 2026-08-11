@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=SONA%20MITHYA&fontSize=50&fontColor=123B70&fontAlignY=55&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=SONA%20MITHYA&fontSize=50&fontColor=38BDF8&fontAlignY=55&animation=twinkling" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=100000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer&repeat=false" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=700&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Computer+Science+Engineer;Java+Full+Stack+Developer+%7C+AI+Enthusiast;Building+Ideas+Into+Working+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=100000&color=7DD3FC&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer+%7C+AI+Enthusiast&repeat=false" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=100000&color=7DD3FC&center=true&vCenter=true&width=800&lines=Building+Ideas+Into+Working+Solutions&repeat=false" />
+
+<br><br>
 
 ### `JAVA` • `FULL STACK` • `AI` • `DSA`
 
@@ -22,6 +30,7 @@
 
 </div>
 
+---
 ---
 ## 👋 About Me
 
