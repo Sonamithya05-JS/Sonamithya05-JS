@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=700&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=80&lines=%F0%9F%92%BB+Java+Developer+%7C+Full+Stack+Developer+%7C+%F0%9F%A4%96+AI+%26+Generative+AI+Enthusiast" />
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=1200&color=7DD3FC&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%9A%80+Building+real-world+software+solutions&repeat=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=150&pause=1500&deleteDelay=800&color=7DD3FC&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%9A%80+Building+real-world+software+solutions&repeat=true" />
 
 <br><br>
 
