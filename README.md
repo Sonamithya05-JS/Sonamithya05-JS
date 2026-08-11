@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=100000&color=7DD3FC&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%9A%80+Building+real-world+software+solutions&repeat=false" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=1200&color=7DD3FC&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%9A%80+Building+real-world+software+solutions&repeat=true" />
 
 <br><br>
 
