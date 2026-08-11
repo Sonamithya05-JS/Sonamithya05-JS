@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=700&color=3B6EA5&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Computer+Science+Engineer;Java+Full+Stack+Developer+%7C+AI+Enthusiast;Building+Ideas+Into+Working+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=700&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Computer+Science+Engineer;Java+Full+Stack+Developer+%7C+AI+Enthusiast;Building+Ideas+Into+Working+Solutions" />
 
 <br>
 
@@ -21,10 +21,6 @@
 </a>
 
 </div>
-
----
-
----
 
 ---
 ## 👋 About Me
