@@ -2,13 +2,9 @@
 
 <h1>👋 Hi there, I'm Sona Mithya</h1>
 
-<hr>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=700&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=80&lines=%F0%9F%92%BB+Java+Developer+%7C+Full+Stack+Developer+%7C+%F0%9F%A4%96+AI+%26+Generative+AI+Enthusiast" />
 
-<h3>Computer Science Engineering</h3>
-
-<p>
-💻 Java Developer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; 🤖 AI & Generative AI Enthusiast
-</p>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=100000&color=7DD3FC&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%9A%80+Building+real-world+software+solutions&repeat=false" />
 
@@ -29,7 +25,6 @@
 </div>
 
 ---
-
 ---
 
 ## 👋 About Me
