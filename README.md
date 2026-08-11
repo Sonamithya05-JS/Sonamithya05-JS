@@ -6,9 +6,7 @@
 
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=180&pause=1200&deleteDelay=700&color=FFFFFF&center=true&vCenter=true&width=850&height=45&lines=Building+real-world+software+solutions&repeat=true" />
-
 <br><br>
-
 <a href="https://github.com/Sonamithya05-JS?tab=followers">
 <img src="https://img.shields.io/github/followers/Sonamithya05-JS?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=7C3AED" />
 </a>
