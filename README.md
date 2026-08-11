@@ -1,5 +1,4 @@
 <div align="center">
-
 <h1>👋 Hi there, I'm Sona Mithya</h1>
 
 <hr>
@@ -26,8 +25,6 @@
 </a>
 
 </div>
-
----
 ---
 ## 👋 About Me
 
