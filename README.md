@@ -1,30 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=SONA%20MITHYA&fontSize=50&fontColor=38BDF8&fontAlignY=55&animation=twinkling" />
+<h1>👋 Hi there, I'm Sona Mithya</h1>
+
+<hr>
+
+<h3>Computer Science Engineering</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=700&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=80&lines=%F0%9F%92%BB+Java+Developer+%7C+Full+Stack+Developer+%7C+%F0%9F%A4%96+AI+%26+Generative+AI+Enthusiast" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=100000&color=7DD3FC&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%9A%80+Building+real-world+software+solutions&repeat=false" />
+
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=100000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer&repeat=false" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=100000&color=7DD3FC&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer+%7C+AI+Enthusiast&repeat=false" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=100000&color=7DD3FC&center=true&vCenter=true&width=800&lines=Building+Ideas+Into+Working+Solutions&repeat=false" />
-
-<br><br>
-
-### `JAVA` • `FULL STACK` • `AI` • `DSA`
-
-<br>
-
-<a href="https://github.com/Sonamithya05-JS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Sonamithya05-JS?tab=followers">
+<img src="https://img.shields.io/github/followers/Sonamithya05-JS?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=7C3AED" />
 </a>
 
-<a href="YOUR-LINKEDIN-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Sonamithya05-JS?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-View%20Repos-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/Sonamithya05-JS">
+<img src="https://komarev.com/ghpvc/?username=Sonamithya05-JS&label=GITHUB%20VIEWS&style=for-the-badge&color=06B6D4" />
 </a>
 
 </div>
