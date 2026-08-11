@@ -28,17 +28,48 @@
 
 ## 👋 About Me
 
-Computer Science Engineering student passionate about building
-practical software solutions using Java, Full Stack technologies,
-and Artificial Intelligence.
+<table>
+<tr>
+<td width="55%">
 
-- 🎓 B.E. Computer Science & Engineering
-- 💻 Java & Full Stack Development
-- 🤖 AI-powered application development
-- 🧩 Data Structures & Problem Solving
-- 🌱 Currently strengthening Java, DSA & SQL
-- 🎯 Preparing for Software Engineering opportunities
+## 👩‍💻 About Me !
 
+🎓 Computer Science Engineering Student
+
+💻 Java Developer
+
+🌐 Full Stack Developer
+
+🤖 AI & Generative AI Enthusiast
+
+🚀 Building AI-powered Applications
+
+💡 Passionate about solving real-world problems
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</td>
+</tr>
+</table>
+
+### 📚 Currently Learning
+
+- Java & DSA
+- Spring Boot
+- React.js
+- AI & Generative AI
+
+💡 I enjoy transforming ideas into practical software solutions.
+
+### ⚡ Motto
+
+> *"Learn • Build • Improve"*
+
+---
 ---
 
 ## 🛠️ Tech Stack
