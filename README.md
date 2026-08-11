@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=120&pause=500&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=160&lines=SONA+MITHYA;Computer+Science+Engineer;Java+Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=SONA%20MITHYA&fontSize=50&fontColor=123B70&fontAlignY=55&animation=twinkling" />
 
-<br><br>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=80&pause=700&color=3B6EA5&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Computer+Science+Engineer;Java+Full+Stack+Developer+%7C+AI+Enthusiast;Building+Ideas+Into+Working+Solutions" />
+
+<br>
 
 ### `JAVA` • `FULL STACK` • `AI` • `DSA`
 
@@ -17,6 +21,8 @@
 </a>
 
 </div>
+
+---
 
 ---
 
