@@ -9,9 +9,7 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=100000&color=7DD3FC&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%9A%80+Building+real-world+software+solutions&repeat=false" />
-
 <br><br>
-
 <a href="https://github.com/Sonamithya05-JS?tab=followers">
 <img src="https://img.shields.io/github/followers/Sonamithya05-JS?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=7C3AED" />
 </a>
@@ -27,7 +25,7 @@
 </div>
 
 ---
----
+
 ## 👋 About Me
 
 Computer Science Engineering student passionate about building
