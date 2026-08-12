@@ -44,7 +44,7 @@
 </td>
 
 <td width="45%" align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
+<img src="OLD-IMAGE-URL" width="400">
 </td>
 </tr>
 </table>
