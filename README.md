@@ -1,5 +1,3 @@
-<img width="1456" height="816" alt="image" src="https://github.com/user-attachments/assets/f4fbbff5-a1d7-4810-b019-af83e58e0f3b" /><div align="center">
-
 <h1>👋 Hi there, I'm Sona Mithya</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=700&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=80&lines=%F0%9F%92%BB+Java+Developer+%7C+Full+Stack+Developer+%7C+%F0%9F%A4%96+AI+%26+Generative+AI+Enthusiast" />
@@ -44,7 +42,7 @@
 </td>
 
 <td width="45%" align="center">
-<img src="https://raw.githubusercontent.com/Sonamithya05-JS/Java-DSA-Practice/main/assets/coding-setup.png" width="400">
+<img width="1456" height="816" alt="image" src="https://github.com/user-attachments/assets/f4fbbff5-a1d7-4810-b019-af83e58e0f3b" /><div align="center">
 
 </td>
 </tr>
