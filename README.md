@@ -29,8 +29,6 @@
 <tr>
 <td width="55%">
 
-## 👩‍💻 About Me !
-
 🎓 Computer Science Engineering Student
 
 💻 Java Developer
