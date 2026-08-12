@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1456" height="816" alt="image" src="https://github.com/user-attachments/assets/f4fbbff5-a1d7-4810-b019-af83e58e0f3b" /><div align="center">
 
 <h1>👋 Hi there, I'm Sona Mithya</h1>
 
@@ -44,7 +44,8 @@
 </td>
 
 <td width="45%" align="center">
-<img src="OLD-IMAGE-URL" width="400">
+<img src="https://raw.githubusercontent.com/Sonamithya05-JS/Java-DSA-Practice/main/assets/coding-setup.png" width="400">
+
 </td>
 </tr>
 </table>
@@ -61,8 +62,6 @@
 ### ⚡ Motto
 
 > *"Learn • Build • Improve"*
-
----
 ---
 
 ## 🛠️ Tech Stack
