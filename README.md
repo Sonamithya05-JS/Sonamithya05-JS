@@ -59,36 +59,43 @@
 
 ## 🛠️🚀 Tech Stack
 
-### 💻 Programming Languages
+# 🚀 Tech Stack
+
+### ☕ Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript" />
+<img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ### 🗄️ Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🤖 AI & Generative AI
+
 <p>
-  <img src="https://skillicons.dev/icons?i=gemini" />
+<img src="https://skillicons.dev/icons?i=gemini" />
 </p>
 
 ### 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" />
-</p>
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
+</p>
 ## 🚀 Featured Projects
 
 ### 🛡️ SentinelAI
