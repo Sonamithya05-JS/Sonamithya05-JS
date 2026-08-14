@@ -85,11 +85,8 @@
 ### 🤖 AI & Generative AI
 
 <p>
-### 🤖 AI & Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
+  <img src="https://cdn.simpleicons.org/googlegemini" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/openai" width="48" height="48" />
 </p>
 
 ### 🛠️ Tools & Technologies
