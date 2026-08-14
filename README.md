@@ -95,6 +95,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
 </p>
 
+---
 # 🚀 Featured Projects
 
 ### 🛡️ SentinelAI — AI-Based Infrastructure Health Monitoring
