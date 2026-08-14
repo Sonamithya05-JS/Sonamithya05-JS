@@ -56,9 +56,6 @@
 
 > *"Learn • Build • Improve"*
 ---
-
-## 🛠️🚀 Tech Stack
-
 # 🚀 Tech Stack
 
 ### ☕ Programming Languages
