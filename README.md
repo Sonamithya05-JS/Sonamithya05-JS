@@ -88,11 +88,13 @@
   <img src="https://cdn.simpleicons.org/googlegemini" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/openai" width="48" height="48" />
 </p>
+
 ### 🛠️ Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
 </p>
+
 ## 🚀 Featured Projects
 
 ### 🛡️ SentinelAI
