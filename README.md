@@ -110,7 +110,7 @@
 - 🔔 Automated alerts using LED & buzzer
 
 <a href="YOUR-SENTINELAI-REPO-LINK">
-<img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
