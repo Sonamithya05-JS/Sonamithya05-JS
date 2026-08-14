@@ -109,7 +109,7 @@
 - 📊 Sensor trends, alerts and risk scores
 - 🔔 Automated alerts using LED & buzzer
 
-<a href="YOUR-SENTINELAI-REPO-LINK">
+<a href="https://github.com/Sonamithya05-JS/AI-Complaint-Resolution-Agent">
   <img src="https://img.shields.io/badge/🔗%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
