@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 <table>
 <tr>
@@ -95,35 +95,72 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
 </p>
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛡️ SentinelAI
-**AI-Based Infrastructure Health Monitoring & Predictive Risk Analysis**
+### 🛡️ SentinelAI — AI-Based Infrastructure Health Monitoring
 
-`React.js` `Spring Boot` `MySQL` `ESP32` `Gemini AI`
+> AI-powered platform for real-time infrastructure monitoring and predictive risk analysis.
 
-> Intelligent infrastructure monitoring system that combines
-> real-time sensor data with AI-powered risk analysis.
+**Tech Stack:** `React.js` `Spring Boot` `MySQL` `ESP32` `Gemini AI` `Weather API`
 
----
+- 📡 Real-time sensor monitoring
+- 🤖 AI-based risk analysis & recommendations
+- 📊 Sensor trends, alerts and risk scores
+- 🔔 Automated alerts using LED & buzzer
 
-### 🤟 Bidirectional Communication
-**ISL ↔ Text / Speech Converter**
-
-`AI` `Indian Sign Language` `3D Avatar`
-
-> A communication system designed to bridge interaction between
-> sign-language users and people who communicate through text or speech.
+<a href="YOUR-SENTINELAI-REPO-LINK">
+<img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-### 🚗 NeuroFleetX
-**Fleet Management System**
+### 🤟 Bidirectional Communication — ISL & Text/Speech Converter
 
-`React.js` `Spring Boot` `MySQL`
+> A real-time communication system connecting Indian Sign Language with text and speech.
 
-> A role-based fleet management platform for managing vehicles,
-> drivers and fleet operations.
+**Tech Stack:** `AI/ML` `Indian Sign Language` `3D Animated Avatar` `Text-to-Speech` `Speech-to-Text`
+
+- 🤟 Converts ISL gestures into text and speech
+- 🔊 Converts text/speech into sign-language representation
+- 🧑‍💻 Designed for accessible communication
+- ⚡ Real-time bidirectional communication
+
+<a href="YOUR-ISL-REPO-LINK">
+<img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🚗 NeuroFleetX — Fleet Management System
+
+> A full-stack fleet management platform for managing vehicles, drivers and users.
+
+**Tech Stack:** `React.js` `Spring Boot` `MySQL` `REST API`
+
+- 🚘 Vehicle management
+- 👨‍✈️ Driver management
+- 👤 User management
+- 📊 Centralized fleet data management
+
+<a href="YOUR-NEUROFLEETX-REPO-LINK">
+<img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🤖 Complaint Resolution Agent
+
+> An AI-powered assistant designed to help automate complaint analysis and resolution.
+
+**Tech Stack:** `AI` `Generative AI` `LLM`
+
+- 🧠 AI-powered complaint understanding
+- 💬 Automated response generation
+- ⚡ Faster complaint resolution workflow
+
+<a href="YOUR-COMPLAINT-AGENT-REPO-LINK">
+<img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
