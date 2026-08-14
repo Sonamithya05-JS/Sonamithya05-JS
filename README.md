@@ -180,6 +180,15 @@
 </a>
 
 ---
+### 🎓 Student Grading System
+
+> A student grading system project developed to manage and evaluate student grades.
+
+<a href="https://github.com/Sonamithya05-JS/Student_Grading_System">
+  <img src="https://img.shields.io/badge/🔗%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
 
 ## 📚 Coding Journey
 
