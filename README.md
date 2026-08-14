@@ -163,6 +163,22 @@
 </a>
 
 ---
+### 🏙️ AI Civic Issue Detection & Resolution System
+
+> An AI-powered civic issue reporting system that detects reported issues from images and intelligently routes them to the appropriate department.
+
+**Tech Stack:** `AI` `Computer Vision` `Image Detection` `Python`
+
+- 📸 Image-based civic issue detection
+- 🤖 AI-powered issue analysis
+- 🏢 Smart department routing
+- ⚡ Streamlined civic issue resolution
+
+<a href="https://github.com/Sonamithya05-JS/AI-Civic-Issue-Detection-Resolution-System">
+  <img src="https://img.shields.io/badge/🔗%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
 
 ## 📚 Coding Journey
 
