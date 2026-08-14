@@ -57,24 +57,37 @@
 > *"Learn • Build • Improve"*
 ---
 
-## 🛠️ Tech Stack
+## 🛠️🚀 Tech Stack
 
-### Languages
-`Java` `Python` `JavaScript` `SQL`
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
+</p>
 
-### Frontend
-`React.js` `HTML` `CSS`
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-### Backend
-`Spring Boot` `Node.js` `REST APIs`
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
 
-### Database & Tools
-`MySQL` `Git` `GitHub` `VS Code`
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### AI
-`Generative AI` `Gemini API`
+### 🤖 AI & Generative AI
+<p>
+  <img src="https://skillicons.dev/icons?i=gemini" />
+</p>
 
----
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" />
+</p>
 
 ## 🚀 Featured Projects
 
