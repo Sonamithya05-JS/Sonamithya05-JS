@@ -126,7 +126,7 @@
 - ⚡ Real-time bidirectional communication
 
 <a href="YOUR-ISL-REPO-LINK">
-<img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+🔗 **[GitHub Repository](https://github.com/Sonamithya05-JS/Bidirectional-Communication-ISL-Text-Speech-Converter)**
 </a>
 
 ---
