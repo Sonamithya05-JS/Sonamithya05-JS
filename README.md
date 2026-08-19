@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=70&pause=700&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=80&lines=%F0%9F%92%BB+Java+Developer+%7C+Full+Stack+Developer+%7C+%F0%9F%A4%96+AI+%26+Generative+AI+Enthusiast" />
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=180&pause=1200&deleteDelay=700&color=FFFFFF&center=true&vCenter=true&width=850&height=45&lines=Building+real-world+software+solutions&repeat=true" />
-<br><br>
+<br>
 <a href="https://github.com/Sonamithya05-JS?tab=followers">
 <img src="https://img.shields.io/github/followers/Sonamithya05-JS?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=7C3AED" />
 </a>
